@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\android programming\loadimages\app\libs\libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ad153ff02ffd6b25a041be88bc0f7800202f9c9">
+        <dex dex="G:\android programming\loadimages\app\build\intermediates\transforms\dex\debug\folders\1000\2\libandroid_tensorflow_inference_java_5ddde2b4721fde4b4e7cdd06b45c1e1594ff28de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\This Pc\.android\build-cache\d95097b76a7fbaa7811088ffdd5a095e3e7a0c54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e687bd38aa341bf6149ef98d012332e3c2b36831">
+        <dex dex="G:\android programming\loadimages\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc042d46c616d1b93c1a7c97ed2096573add6220\classes.dex" />
+    </item>
+
+</items>
